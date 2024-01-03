@@ -27,3 +27,4 @@ __pycache__
 .settings
 .jython_cache
 *.html
+*.g
